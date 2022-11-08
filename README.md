@@ -36,6 +36,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Service Now](https://www.servicenow.com/) - Build and run applications with advanced features like ai.
 - [Thinkwise](https://www.thinkwisesoftware.com/) - Lowcode Platform for core systems.
 - [VisionX](https://visionx.sibvisions.com/) - Lowcode Development Platform.
+### [Next](#automation-and-workflows)
 
 ## Automation and Workflows
 
@@ -59,6 +60,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Tray.io](https://tray.io/) - Integrate your entire stack with the leading general automation platform.
 - [Workato](https://www.workato.com/) - Workflow automation, AI, Bots and more.
 - [Zapier](https://zapier.com/) - Connect your apps and automate tasks.
+### [Next](#forms)
 
 ## Forms
 
@@ -67,6 +69,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [JotForm](https://www.jotform.com/) - A simple online forms tool for any kind of business.
 - [Microsoft Forms](https://forms.office.com/) - Easily create surveys, quizzes, and polls.
 - [Typeform](https://www.typeform.com/) - Beautiful designed forms.
+### [Next](#internal)
 
 ## Internal
 
@@ -77,6 +80,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Retool](https://retool.com/) - Build internal tools, remarkably fast.
 - [Draxlr](https://draxlr.com/) - Get answers from you data, share with your team and customers.
 - [Trevor.io](https://trevor.io/) - Empowering your whole team to get answers from your database data.
+### [Next](#apps)
 
 ## Apps
 
@@ -101,6 +105,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Stacker](https://www.stackerhq.com/) - Turn your spreadsheets into applications.
 - [Structr](https://structr.com/) - Open Source lowcode platform for semantic apps based on graph technology.
 - [Thunkable](https://thunkable.com/) - Mobile app builder.
+### [Next](#landing-pages)
 
 ## Landing Pages
 
@@ -117,6 +122,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Unbounce](https://unbounce.com/) - Custom landing pages, high-converting campaigns with conversion intelligence and smart traffic.
 - [Unicorn Platform](https://unicornplatform.com/) - Simple landing page builder for startups, mobile apps, and SaaS.
 - [Unstack](https://www.unstack.com/) - Merketing websites with the super power of content, analytics, payments and integrations.
+### [Next](#websites)
 
 ## Websites
 
@@ -134,6 +140,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Weebly](https://www.weebly.com/) - Professional websites and e-commerce.
 - [Without Code](https://www.wocode.com/) - Build faster websites, in half the time.
 - [Wix](https://wix.com/) - Build a professional website.
+### [Next](#portfolios)
 
 ## Portfolios
 
@@ -142,11 +149,13 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Dunked](https://dunked.com/) - Portfolio & showcase websites.
 - [Exposure](https://www.exposure.co/) - A website builder for your stories.
 - [Pixpa](https://www.pixpa.com/) - Portfolio websites for photographers and creators.
+### [Next](#membership)
 
 ## Membership
 
 - [Memberspace](https://www.memberspace.com/) - Turn any part of website into members-only with just a few clicks.
 - [Memberstack](https://www.memberstack.com/) - Beautiful user logins and payments for any website.
+### [Next](#databases)
 
 ## Databases
 
@@ -154,6 +163,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Baserow](https://baserow.io/) - Open source online database.
 - [JotForm Tables](https://www.jotform.com/de/products/tables/) - Dynamic spreadsheet.
 - [Rows](https://rows.com/) - The spreadsheet where teams work faster.
+### [Next](#Chatbots)
 
 ## Chatbots
 
@@ -169,6 +179,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Opla.ai](https://opla.ai/) - Open Chatbot builder.
 - [Smooch](https://smooch.io/) - Lets you unify messages from every channel into a single conversation, and build interactive messaging experiences anywhere.
 - [Tars](https://hellotars.com/) - Optimize your conversion funnels, automate customer service interactions, and redefine customer experience.
+### [Next](#automation-and-workflows)
 
 ## Machine Learning
 
@@ -186,14 +197,17 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [RunwayML](https://runwayml.com/) - Makes machine learning accessible to creative practitioners from a wide range of disciplines.
 - [Superannotate](https://superannotate.com/) - End-to-End platform to annotate, train and automate computer vision pipelines.
 - [Teachable Machine](https://teachablemachine.withgoogle.com/) - Web-based tool for training a computer to recognise images, sounds, and poses.
+### [Next](#automation-and-workflows)
 
 ## Games
 
 - [Buildbox](https://www.buildbox.com/) - No-Code mobile game development.
+### [Next](#automation-and-workflows)
 
 ## Scraper
 
 - [Simplescraper](https://simplescraper.io/) - Extract data from any website in seconds.
+### [Next](#automation-and-workflows)
 
 ## More (Uncategorized)
 
@@ -201,3 +215,4 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Smartsheet](https://www.smartsheet.com/) - Get more work done with workflow, formulars and automations.
 - [Voiceflow](https://www.voiceflow.com/) - Voiceflow helps prototype and launch conversational apps.
 - [Linkz.ai](https://linkz.ai) - Immersive hyperlink previews to keep visitors on your website.
+### [Next](#automation-and-workflows)
