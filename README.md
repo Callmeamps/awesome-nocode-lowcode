@@ -179,7 +179,7 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [Opla.ai](https://opla.ai/) - Open Chatbot builder.
 - [Smooch](https://smooch.io/) - Lets you unify messages from every channel into a single conversation, and build interactive messaging experiences anywhere.
 - [Tars](https://hellotars.com/) - Optimize your conversion funnels, automate customer service interactions, and redefine customer experience.
-### [Next](#automation-and-workflows)
+### [Next](#machine-learning)
 
 ## Machine Learning
 
@@ -197,17 +197,17 @@ Not sure, if awesome or not? [Add to under consideration list](https://github.co
 - [RunwayML](https://runwayml.com/) - Makes machine learning accessible to creative practitioners from a wide range of disciplines.
 - [Superannotate](https://superannotate.com/) - End-to-End platform to annotate, train and automate computer vision pipelines.
 - [Teachable Machine](https://teachablemachine.withgoogle.com/) - Web-based tool for training a computer to recognise images, sounds, and poses.
-### [Next](#automation-and-workflows)
+### [Next](#games)
 
 ## Games
 
 - [Buildbox](https://www.buildbox.com/) - No-Code mobile game development.
-### [Next](#automation-and-workflows)
+### [Next](#scraper)
 
 ## Scraper
 
 - [Simplescraper](https://simplescraper.io/) - Extract data from any website in seconds.
-### [Next](#automation-and-workflows)
+### [Next](#more-uncategorized)
 
 ## More (Uncategorized)
 
